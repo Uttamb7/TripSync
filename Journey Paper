@@ -1,0 +1,62 @@
+Team TripSync
+Journey Paper
+
+
+
+Group Members: 
+
+Nishant Kharel
+Uttam Bhattarai 
+Abdullah Sakayl 
+Saurav Raut
+
+
+Introduction  
+
+The current methods of planning a trip can be very complicated and time consuming, especially for those that travel in groups. For those who choose not to put their effort into planning, the alternative can be costly and often not recommended as the trip itself is already expensive. 
+
+For travelers who are facing such challenges, our service, TripSync, offers an all-in-one solution that streamlines the entire trip planning process, from booking hotels to planning attractions and finding places to eat. TripSync aims to enhance the efficiency in organizing trip plans through improved communication and cost reduction. The assets that support the promise of increase in efficiency are: personalized recommendations, calendar and planner integration, group chat feature, bill splitting, parking and gas price finder. 
+
+To further elevate TripSync and meet the needs of travelers, a hypothesis was formed and tested through customer discovery. This process allowed the team to gather feedback from the potential consumers and also understand their pain points on the current trip planning methods, allowing us to further refine our solution in order to transform their pain into gains.
+
+
+
+Hypothesis  
+
+It must be challenging for travelers to organize group trips due to the need of using multiple platforms for different aspects of planning. This leads to wasted time, miscommunication and lack of alignment with the group, as well as unorganized plans and higher costs. 
+
+During trip planning, travelers must navigate through many different websites to book the cheapest flights, seek things to do once they get to the destination, as well as find places to dine and to rest. These are just some of the general things for a lone traveler to be wary of; now, travelers that move in groups must also use a different platform for communication and make sure that the entire group is on the same page before proceeding. This approach of using multiple platforms can be tedious and exhausting as well as stressful since you are taking in a lot of information at once. We believe that planning a trip should not be this complicated but rather a fun and exciting experience. 
+
+
+
+
+
+Conclusion 
+
+Customer discovery was commenced in order to test our hypothesis. In total, we were able to complete 112 interviews, a combination of 64 problem interviews and 48 solution interviews.
+As TripSync’s primary consumers are travelers, there was no set age group we settled with; in the beginning, we believed that anyone could be a consumer. But through our first set of interviews, we understood that people in different age groups tend to do things differently, and our service may be more focused on college students. Although it is still true that any person who travels would find our service beneficial, people above the age of 40 did not tend to like the idea of using technologies.
+Throughout the customer discovery process, we gathered invaluable user feedback that led to suggestions for UI enhancements, emphasizing the need for a clean and easy-to-use interface. Our interviews also revealed niche groups, such as frequent travelers who prefer budget accommodations and those who travel less frequently but stay in more expensive hotels. Additionally, we discovered new competitors, including platforms like Google Travel and tools like Sheets for calendar scheduling. The solution interviews played a crucial role in validating the importance of our proposed features.
+In conclusion, the customer discovery process has been invaluable in shaping the direction of TripSync. It has provided us with a deeper understanding of our target market's diverse needs and preferences, validated our key features, and uncovered new opportunities for differentiation. Moving forward, these insights will guide our development and marketing strategies, ensuring that TripSync meets the real-world needs of group travelers and stands out in a competitive market. Through continuous user feedback and iterative improvements, we are confident that TripSync will evolve into a robust and essential tool for group travel planning.
+The Journey 
+
+
+The journey began with a clear vision: to create a seamless, all-in-one service for group trip planning. Inspired by our own frustrations with coordinating travel plans, we knew there was potential in TripSync. However, our excitement was met with the reality of needing more concrete customer insights. Determined to take the next step, we scheduled a meeting with Dr. DeMartino, who had experience in guiding startups. His feedback was eye-opening, emphasizing the importance of customer discovery before pitching the idea to an accelerator program. We decided to seek additional support, securing Jerry as our summer coach to help refine our approach. Together, we began documenting our progress with regular meeting reports, laying the foundation for TripSync’s development.
+Throughout this phase, we gained invaluable insights that fundamentally shaped our approach to building TripSync. Learning the Business Model Canvas (BMC) from Jerry opened our eyes to the importance of strategic planning. We realized that understanding our customer segments, channels, and key partners was essential to building a sustainable business. The process of drafting the Memorandum of Understanding (MOU) taught us the significance of clear communication and defined roles within the team, which helped prevent misunderstandings and ensured that everyone was working toward the same goals.
+Crafting value proposition statements pushed us to think deeply about what TripSync could offer that was truly unique. It wasn't just about having an idea; it was about solving real problems for real people. Developing the 5 W’s questions honed our skills in customer discovery, making us more effective in gathering meaningful feedback. This, in turn, helped us iterate on our initial ideas and refine our service to better meet the needs of our target users. The addition of Abdullah to the team underscored the value of diverse perspectives. His contributions challenged us to think differently and consider aspects of the project we hadn't fully explored before. Overall, this period was one of intense learning and growth, setting a strong foundation for the next steps in our journey.
+As we approached the end of our journey, all of our hard work culminated in the creation of our pitch deck slides. Each slide was meticulously crafted to tell the story of TripSync—how we identified a gap in the market, validated our idea through customer discovery, and built a service that could revolutionize group trip planning. With the guidance of Jerry and the support of our team, we refined our messaging, ensuring that our value proposition was clear and compelling.
+The final presentation was the moment we had been working toward—the chance to showcase TripSync to the accelerator program. As we stood before the panel, our hearts were filled with hope and anticipation. We believed in the potential of TripSync and were eager to take it to the next level with the resources and mentorship the program could provide. This presentation was not just the conclusion of one chapter but the beginning of another, as we aimed to secure our place in the accelerator and continue bringing our vision to life.
+
+
+Individual Reflections
+
+Uttam's Reflection 
+Reflecting on this journey, I realized how much there is to learn when you start peeling back the layers of an idea. Initially, we had a clear concept in mind, but I was surprised by how differently people from various age groups and backgrounds perceive aspects of traveling. It was eye-opening to see that while some individuals didn’t care much for planning their trips, others viewed it as essential, and many fell somewhere in between. This diversity of thought really challenged our assumptions and pushed us to think more broadly about our service.
+During the problem interviews, when we asked people what service they wished existed, the responses varied widely. Some couldn’t think of anything new, while others unknowingly described the very solution we were working on. We also received unexpected suggestions for features we hadn’t considered, as well as problems that hadn’t crossed our minds. This process taught me the value of keeping an open mind and being ready to pivot based on what we learn from our potential users.
+ One of the most significant takeaways for me was understanding the importance of demographics. I found that people between the ages of 18-30 saw great value in our service, recognizing how it could solve many of the challenges they face while traveling. On the other hand, older adults, particularly those 60 and up, showed less interest, often due to a lack of tech-savviness. This insight will be crucial as we continue to refine TripSync and target our efforts toward the audiences that will benefit most.
+
+
+
+My plans for this summer was to simply stick to my usual activities, which mostly consisted of seeking co-op or internship opportunities as well as learning new technologies to further strengthen my toolkit as a software engineer. As the summer semester was getting underway, I received an invitation to join TripSync which initially consisted of two members but later grew into a team of four, including myself. 
+At first, I was very skeptical about joining this team, especially after hearing about the project and its aim. Not because I did not believe the team or that it couldn’t be accomplished, but because of how new I was to this topic of traveling. I did go on trips with family within the states, but it was nothing major that involved cohesive planning; it was simply visiting the place, walking around and returning back the same day. Because of this, I was very nervous as to how I could contribute to the development of  TripSync as I did not know exactly what the customers would expect of such a service. All of this skepticism vanished as we began to continuously meet up with our business coach, Jerry.
+Jerry assigned us a set of tasks to further develop the idea of TripSync and through these assignments, I was able to learn valuable insights into business. I had no idea that the process of starting a business would be so involved. First, I learned about Business Model Canvas (BMC), which helped us outline the key components of TripSync; what it will provide and to exactly who. Then, I also learned the value proposition statements which allowed us to point out exactly what problem we are trying to solve and how exactly TripSync will solve it. The biggest thing that I learned is what customer discovery is and exactly how to conduct it. Through the customer discovery process, I have gotten better at communicating with strangers or simply starting a conversation with them. Looking back, I can laugh at myself since I thought that one could start a business by simply having a good idea and just the understanding of “how” to make the business work. In fact, I didn't even know hypothesis was a term that could be used in the business field, I thought it was only used in the science field but I was proven wrong and I am very content with what I have learned this summer. 
+Although we got unlucky that the accelerator program for fall got canceled as that was our main goal, I am grateful to have been part of this team and walk away with valuable skills and the business perspective I have received. I can say with confidence that I do not regret accepting the invitation one bit. 
